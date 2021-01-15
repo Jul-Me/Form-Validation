@@ -7,7 +7,7 @@
 
 body {
   background-color: #9b59b6;
-  font-family: sans-serif;
+  font-family: 'Open Sans', sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -79,7 +79,7 @@ body {
   right: 10px;
 }
 
-.form-control.form-control.success i.fa-check-circle {
+.form-control.success i.fa-check-circle {
   color: #2ecc71;
   visibility: visible;
 }
